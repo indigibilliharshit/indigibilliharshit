@@ -1,8 +1,8 @@
-<h1 align="center">Harshit Indigibilli</h1>
+<h1 align="center">Indigibilli Harshit</h1>
 
 <p align="center">
   <em>Full-stack software engineer building web products, backend systems and applied AI.</em><br>
-  Also written Indigibilli Harshit · I. Harshit
+  Also written Harshit Indigibilli · I. Harshit
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
   <a href="mailto:harshitindigibilli@gmail.com">Email</a>
 </p>
 
-I'm **Harshit Indigibilli** (Indigibilli Harshit), a full-stack software engineer from India working on geospatial digital twins, backend systems and applied AI. I'm a Software Development Engineer at EarthSense Labs, a former research intern at IIT Delhi and NIT Rourkela, and an IEEE author. Read the full story on my portfolio: [indigibilliharshit.github.io](https://indigibilliharshit.github.io).
+I'm **Indigibilli Harshit** (Harshit Indigibilli), a full-stack software engineer from India working on geospatial digital twins, backend systems and applied AI. I'm a Software Development Engineer at EarthSense Labs, a former research intern at IIT Delhi and NIT Rourkela, and an IEEE author. Read the full story on my portfolio: [indigibilliharshit.github.io](https://indigibilliharshit.github.io).
 
 ## Now
 
