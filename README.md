@@ -8,6 +8,7 @@
 <p align="center">
   <a href="https://indigibilliharshit.github.io"><b>Portfolio</b></a> ·
   <a href="https://www.linkedin.com/in/indigibilliharshit">LinkedIn</a> ·
+  <a href="https://scholar.google.com/citations?user=UOfCOHsAAAAJ">Google Scholar</a> ·
   <a href="https://orcid.org/0009-0000-3495-9584">ORCID</a> ·
   <a href="https://www.kaggle.com/harshitindigibilli">Kaggle</a> ·
   <a href="mailto:harshitindigibilli@gmail.com">Email</a>
@@ -47,7 +48,7 @@ I'm **Indigibilli Harshit** (Harshit Indigibilli), a full-stack software enginee
 
 **Roadkill Hotspots and Policy Advocacy (RHPA): A Multi-Layered AI and IoT Approach for Real-Time Wildlife Preservation**<br>
 L. Patra, I. Harshit, S. K. Mohapatra, A. Singh, M. N. Mohanty. *2026 International Conference on Emerging Systems and Intelligent Computing (ESIC)*, Bhubaneswar, pp. 139–141.<br>
-[IEEE Xplore](https://ieeexplore.ieee.org/document/11495994) · DOI [10.1109/ESIC68176.2026.11495994](https://doi.org/10.1109/ESIC68176.2026.11495994)
+[IEEE Xplore](https://ieeexplore.ieee.org/document/11495994) · [Google Scholar](https://scholar.google.com/citations?user=UOfCOHsAAAAJ) · DOI [10.1109/ESIC68176.2026.11495994](https://doi.org/10.1109/ESIC68176.2026.11495994)
 
 ## Recognition
 
