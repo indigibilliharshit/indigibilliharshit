@@ -13,14 +13,6 @@
   <a href="mailto:harshitindigibilli@gmail.com">Email</a>
 </p>
 
-<p align="center">
-  <a href="https://indigibilliharshit.github.io">
-    <img src="cord-switch-demo.gif" width="760" alt="My portfolio has a pull cord: drag it and the calm paper edition floods with ink into an animated night edition.">
-  </a>
-  <br>
-  <sub>My portfolio has two faces. Pull the cord in the corner.</sub>
-</p>
-
 I'm **Harshit Indigibilli** (Indigibilli Harshit), a full-stack software engineer from India working on geospatial digital twins, backend systems and applied AI. I'm a Software Development Engineer at EarthSense Labs, a former research intern at IIT Delhi and NIT Rourkela, and an IEEE author. Read the full story on my portfolio: [indigibilliharshit.github.io](https://indigibilliharshit.github.io).
 
 ## Now
