@@ -35,7 +35,7 @@ I'm **Indigibilli Harshit** (Harshit Indigibilli), a full-stack software enginee
 
 | Project | What it is | Stack |
 | --- | --- | --- |
-| [Multi-backend platform for a 4D digital twin](https://indigibilliharshit.github.io/work/digital-twin-platform) | One interface over many data sources, live and historical. IIT Delhi. | Python, FastAPI |
+| [GeoTwin 4D](https://indigibilliharshit.github.io/work/digital-twin-platform) | EarthSense Labs' geospatial digital twin platform, built on open standards with multi-tenant access control. | Python, FastAPI |
 | [IPED precipitation dashboard](https://indigibilliharshit.github.io/work/iped-dashboard) | Thirty-two years of daily gridded rainfall from a dataset developed with the India Meteorological Department, one date slider. | FastAPI, React (TypeScript) |
 | [RF fingerprinting with deep learning](https://indigibilliharshit.github.io/work/rf-fingerprinting) | Recognising a device by the way it transmits. 70+ GB of RF data captured with software defined radio. | SDR, GNU Radio, Python, deep learning |
 | [RHPA](https://indigibilliharshit.github.io/work/rhpa) | Computer vision and IoT to warn drivers before an animal crossing. Published in IEEE Xplore. | YOLOv5xu, DenseNet, ResNet, IoT |
