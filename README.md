@@ -18,14 +18,14 @@ I'm **Indigibilli Harshit** (Harshit Indigibilli), a full-stack software enginee
 
 ## Now
 
-- **Software Development Engineer at EarthSense Labs**, in the core team working on **GeoTwin 4D**, a geospatial digital twin platform.
+- **Software Development Engineer at EarthSense Labs**, in the core team working on **GeoTwin 4D**, an asset-level geospatial intelligence platform for critical infrastructure.
 - Writing up what I've built so far in my [journal](https://indigibilliharshit.github.io/journal).
 
 ## Path
 
 | Role | Where | When |
 | --- | --- | --- |
-| Software Development Engineer | EarthSense Labs | 2026 – present |
+| Software Development Engineer | EarthSense Labs | July 2026 – present |
 | Research Intern, HydroSense Lab (Prof. Manabendra Saharia) | IIT Delhi | Jan – Jun 2026 |
 | Summer Research Intern, Electronics and Communication (Dr. Shrishail Hiremath) | NIT Rourkela | May – Jul 2025 |
 | AI and ML Engineer Intern | The Social Ants | Jan – May 2025 |
@@ -35,7 +35,7 @@ I'm **Indigibilli Harshit** (Harshit Indigibilli), a full-stack software enginee
 
 | Project | What it is | Stack |
 | --- | --- | --- |
-| [GeoTwin 4D](https://indigibilliharshit.github.io/work/digital-twin-platform) | EarthSense Labs' geospatial digital twin platform, built on open standards with multi-tenant access control. | Multi-tenant, multi-backend platform: Python, FastAPI, Java; 3D Tiles, COG, Potree, OGC services |
+| [GeoTwin 4D](https://indigibilliharshit.github.io/work/digital-twin-platform) | EarthSense Labs' asset-level geospatial intelligence platform for critical infrastructure. I'm a full-stack engineer on its core team. | EarthSense Labs product |
 | [IPED precipitation dashboard](https://indigibilliharshit.github.io/work/iped-dashboard) | Thirty-two years of daily gridded rainfall from a dataset developed with the India Meteorological Department, one date slider. | FastAPI, React (TypeScript) |
 | [RF fingerprinting with deep learning](https://indigibilliharshit.github.io/work/rf-fingerprinting) | Recognising a device by the way it transmits. 70+ GB of RF data captured with software defined radio. | SDR, GNU Radio, Python, deep learning |
 | [RHPA](https://indigibilliharshit.github.io/work/rhpa) | Computer vision and IoT to warn drivers before an animal crossing. Published in IEEE Xplore. | YOLOv5xu, DenseNet, ResNet, IoT |
