@@ -53,9 +53,10 @@ L. Patra, I. Harshit, S. K. Mohapatra, A. Singh, M. N. Mohanty. *2026 Internatio
 ## Recognition
 
 - **1st place**, IBM ICE Ideathon 2025, for RHPA
-- **1st place**, WATCH Hackathon 2024, Sustainable Cities theme, for Eco-Yatra
+- **1st place**, WeAther & Climate Hackathon (WATCH) 2024, Sustainable Cities theme, for Eco-Yatra
 - **Runner-up**, IBM ICE Technical Paper Presentation 2024, data-driven drug discovery
-- **Finalist**, Action Plan Social Innovation Track, IIT Bombay 2024
+- **Finalist**, Action Plan Social Innovation Track, Abhyuday, IIT Bombay 2024–25
+- **Winner**, SSU Innovation Makeathon 2023, by Openweaver
 - Robotics educator: ran a hands-on workshop at Rajadhani College, Bhubaneswar, covered by The Daily Pioneer
 
 ## Toolbox
